@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1286175437",
+    "firebase_url": "https://it-screen-remote.firebaseio.com",
+    "project_id": "it-screen-remote",
+    "storage_bucket": "it-screen-remote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1286175437:android:e50a12f75a4e1771cb0784",
+        "android_client_info": {
+          "package_name": "com.rtuitlab.itscreenremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1286175437-tbb335j9g1e8grhg1dgjnon5nidic1ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysttBChJhz4E06xULJgITFXDDTRzugmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1286175437-tbb335j9g1e8grhg1dgjnon5nidic1ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
